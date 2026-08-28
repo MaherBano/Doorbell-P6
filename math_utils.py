@@ -1,2 +1,2 @@
 def divide_numbers(a, b):
-    return a / b
+    return b / a  # bug: operands reversed
